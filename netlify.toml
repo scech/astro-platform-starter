@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/Amelia/*"
+  to = "https://rnd-v5.dev.amelia.com/Amelia/:splat"
+  status = 200
+  force = true
